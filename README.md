@@ -48,17 +48,17 @@ Tech stack
 - Postman
 
 <div>
-<img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/4fc0be76bfa32ea1540b70d86e806c139f9a56b3/js.svg"/>
-<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/nodejs1.png?raw=true"/>
-<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/react.png?raw=true"/>
-<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/mongoDB.png?raw=true"/>
-<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/express.png?raw=true"/>
-<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/redux.png?raw=true"/>
-<img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/4fc0be76bfa32ea1540b70d86e806c139f9a56b3/html.svg"/>
-<img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/4fc0be76bfa32ea1540b70d86e806c139f9a56b3/css.svg"/>
-<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/github.png?raw=true"/>
-<img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/4fc0be76bfa32ea1540b70d86e806c139f9a56b3/postman.svg"/>
-<img width="60px" height="60px" src=""/>
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/ac1c2af74d3ad54b542690b8596533b5112cca60/tech-stack-logos/js.svg"/>
+<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/nodejs1.png?raw=true"/>
+<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/react.png?raw=true"/>
+<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/mongoDB.png?raw=true"/>
+<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/express.png?raw=true"/>
+<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/redux.png?raw=true"/>
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/ac1c2af74d3ad54b542690b8596533b5112cca60/tech-stack-logos/html.svg"/>
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/ac1c2af74d3ad54b542690b8596533b5112cca60/tech-stack-logos/css.svg"/>
+<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/github.png?raw=true"/>
+<img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/ac1c2af74d3ad54b542690b8596533b5112cca60/tech-stack-logos/postman.svg"/>
+<!-- <img width="60px" height="60px" src=""/> -->
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
                                                        
