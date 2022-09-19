@@ -29,7 +29,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://imsukhdevhansda.github.io/portfolio/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1w0Gc9pTrgpZwUssYLrTBu7AW3Mn1WLOl/view?usp=sharing)
 - 📫 How to reach me: ...**sukhdevhansda8@gmail.com**
-- 🔗 Connect with me on [Linkdin](https://www.linkedin.com/in/sukhdev-hansda/)
+- 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/sukhdev-hansda/)
 - 😄 Pronouns: ...@sukh dev
 - ⚡ Fun fact: ...Be yourself ,😄 but always your better self.
 
