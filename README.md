@@ -6,18 +6,58 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align="center"> 😇(Hello everyone) I'm Sukhdev Hansda👋</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-                                                       
+
+About me
+---
+
+I'm a Full Stack Developer. I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
+I am fluent in classics like Javascript.
+
+My field of Interest's are building new  Web Technologies and Products. and also in areas related to Deep Learning and Natural Launguage Processing.
+
+Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks  like React.js, Express
+
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.
+
+
+
+
+                                          
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Masai School (Full Stack Developer)**
 - 💬 Ask me about **MERN**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://imsukhdevhansda.github.io/portfolio/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1w0Gc9pTrgpZwUssYLrTBu7AW3Mn1WLOl/view?usp=sharing)
 - 📫 How to reach me: ...**sukhdevhansda8@gmail.com**
+- 🔗 Connect with me on [Linkdin](https://imsukhdevhansda.github.io/portfolio/)
 - 😄 Pronouns: ...@sukh dev
 - ⚡ Fun fact: ...Be yourself ,😄 but always your better self.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+Tech stack
+---
+- React, Redux, Express Frameworks
+- Java Script
+- NodeJS
+- MongoDB
+- HTML, CSS
+- JSON
+- RESTfull APIs
+- Git
+- Postman
+
+<div>
+<img width="60px" height="60px" src=""/>
+<img width="60px" height="60px" src=""/>
+<img width="60px" height="60px" src=""/>
+<img width="60px" height="60px" src=""/>
+<img width="60px" height="60px" src=""/>
+<img width="60px" height="60px" src=""/>
+<img width="60px" height="60px" src=""/>
+<img width="60px" height="60px" src=""/>
+</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
                                                        
 <h2><i>My GitHub Status</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsukhdevhansda&label=Profile%20views&color=0e75b6&style=flat" alt="imsukhdevhansda" /> </p>
