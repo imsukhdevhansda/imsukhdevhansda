@@ -1,35 +1,15 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**imsukhdevhansda/imsukhdevhansda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
                                                         
 ![MasterHead](https://img.freepik.com/premium-vector/developing-programming-coding-technologies-engineering-development-programmer-developer-create-code-laptop-screen-with-codes-developer-work-with-task-coding-software-using-pc_458444-1153.jpg?w=2000)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=#8230c6&amp;size=20&amp;lines=Hey!+It's+Sukhdev+Hansda!;Learning+MERN+full-stack+Development...👨🏻‍💻;" style="width: 100%;">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h1 align="center"> 😇(Hello everyone)"Sukhdev Hansda"👋</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8230C6&width=435&lines=Hey!+It's+Sukhdev+Hansda!;Full+Stack+Web+Developer;)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<h1 align="center"> 😇(Hello everyone) I'm Sukhdev Hansda👋</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
                                                        
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Masai School (Full Stack Developer)**
-- 💬 Ask me about **Java**
+- 💬 Ask me about **MERN**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://imsukhdevhansda.github.io/portfolio/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1w0Gc9pTrgpZwUssYLrTBu7AW3Mn1WLOl/view?usp=sharing)
 - 📫 How to reach me: ...**sukhdevhansda8@gmail.com**
@@ -39,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                        
-<h2><i>My GitHub Stats</i></h2>
+<h2><i>My GitHub Status</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsukhdevhansda&label=Profile%20views&color=0e75b6&style=flat" alt="imsukhdevhansda" /> </p>
 
 <p>
