@@ -31,7 +31,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 - 📫 How to reach me: ...**sukhdevhansda8@gmail.com**
 - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/sukhdev-hansda/)
 - 😄 Pronouns: ...@sukh dev
-- ⚡ Fun fact: ...Be yourself ,😄 but always your better self.
+- ⚡ Life lesson: ...Be yourself ,😄 but always your better self.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -70,8 +70,9 @@ Tech stack
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsukhdevhansda&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="imsukhdevhansda" height="139" />
 </p>
 
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsukhdevhansda&" alt="imsukhdevhansda" /></p>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=imsukhdevhansda&theme=xcode" height ="307"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
