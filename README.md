@@ -71,7 +71,7 @@ Tech stack
 </p>
 
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsukhdevhansda&" alt="imsukhdevhansda" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsukhdevhansda" alt="imsukhdevhansda" /></p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=imsukhdevhansda&theme=xcode" height ="307"/>
 
