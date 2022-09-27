@@ -63,7 +63,9 @@ Tech stack
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
                                                        
 <h2><i>My GitHub Status</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsukhdevhansda&label=Profile%20views&color=0e75b6&style=flat" alt="imsukhdevhansda" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsukhdevhansda&label=Profile%20views&color=0e75b6&style=flat" alt="imsukhdevhansda" /> </p> -->
+
+[![](https://visitcount.itsvg.in/api?id=imsukhdevhansda&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=imsukhdevhansda&show_icons=true&locale=en&theme=dark" alt="imsukhdevhansda"  height="139" />
