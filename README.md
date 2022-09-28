@@ -61,6 +61,55 @@ Tech stack
 <!-- <img width="60px" height="60px" src=""/> -->
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+## Projects
+1. #### NORDSTROM ECOMMERCE CLONE   [Live](https://laxmiwavale.github.io/NordStrom_clone/)          [GitHub](https://github.com/LaxmiWavale/NordStrom_clone)
+
+Nordstrom is an E-commerce website from Seattle, WA. A leading fashion retailer offering compelling clothing, shoes and accessories for men, women and kids. It was a collaborative project. Cloned within a duration of 4 days.
+
+`Features`
+- Log-in functionality
+- Sign-Up functionality
+- Quantity selection
+- Add to cart functionality
+- Sorting
+- Placing Order
+
+`Area of responsibility`
+- Building Men's and Footer page .
+- Implemented Filter functionality.
+
+1. #### ZEE5 CLONE    [Live](https://laxmiwavale.github.io/ZEE5_clone/)          [GitHub](https://github.com/LaxmiWavale/ZEE5_clone)
+
+At Zee5, the online video streaming Over The Top (OTT) platform. That’s where Zee5 brings in the advantage of the language of your comfort! With 12 navigational and featured languages across original features. It was a collaborative project. Cloned within a duration of 4 days.
+
+`Features`
+- Log-in functionality
+- Sign-Up functionality
+- Searching functionality,
+- Sliding window functionality,
+- Video playing functionality.
+
+`Area of responsibility`
+- Building Movie and Footer page.
+- Implementing Searching functionality.
+- Implementing video player functionality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                                        
 <h2><i>My GitHub Status</i></h2>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsukhdevhansda&label=Profile%20views&color=0e75b6&style=flat" alt="imsukhdevhansda" /> </p> -->
