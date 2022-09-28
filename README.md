@@ -96,20 +96,6 @@ At Zee5, the online video streaming Over The Top (OTT) platform. That’s where 
 - Implementing Searching functionality.
 - Implementing video player functionality.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                                                        
 <h2><i>My GitHub Status</i></h2>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsukhdevhansda&label=Profile%20views&color=0e75b6&style=flat" alt="imsukhdevhansda" /> </p> -->
