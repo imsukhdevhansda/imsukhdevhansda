@@ -49,6 +49,7 @@ Tech stack
 
 <div>
 <img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/ac1c2af74d3ad54b542690b8596533b5112cca60/tech-stack-logos/js.svg"/>
+<!-- <img width="60px" height="60px" src=""/> -->
 <img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/nodejs1.png?raw=true"/>
 <img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/react.png?raw=true"/>
 <img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/mongoDB.png?raw=true"/>
@@ -97,7 +98,7 @@ At Zee5, the online video streaming Over The Top (OTT) platform. That’s where 
 - Implementing video player functionality.
 
                                                        
-<h2><i>My GitHub Status</i></h2>
+<h2><i>My GitHub Stats</i></h2>
 
 [![](https://visitcount.itsvg.in/api?id=imsukhdevhansda&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
