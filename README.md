@@ -102,14 +102,20 @@ At Zee5, the online video streaming Over The Top (OTT) platform. That’s where 
 
 [![](https://visitcount.itsvg.in/api?id=imsukhdevhansda&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=imsukhdevhansda&show_icons=true&locale=en&theme=dark" alt="imsukhdevhansda"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsukhdevhansda&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="imsukhdevhansda" height="139" />
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsukhdevhansda&show_icons=true&locale=en&layout=compact&theme=tokyonight"alt="imsukhdevhansda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsukhdevhansda&show_icons=true&locale=en&theme=tokyonight" alt="imsukhdevhansda"/></p>
+<br/>
 
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsukhdevhansda" alt="imsukhdevhansda" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsukhdevhansda&show_icons=true&locale=en&theme=tokyonight" alt="imsukhdevhansda" /></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=imsukhdevhansda&theme=xcode" height ="307"/>
+
+
+<a href="https://github.com/imsukhdevhansda/github-readme-activity-graph"><img alt="Sukhdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imsukhdevhansda&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
