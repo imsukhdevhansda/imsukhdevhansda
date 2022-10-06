@@ -49,7 +49,7 @@ Tech stack
 
 <div>
 <img width="60px" height="60px" src="https://raw.githubusercontent.com/imsukhdevhansda/imsukhdevhansda/ac1c2af74d3ad54b542690b8596533b5112cca60/tech-stack-logos/js.svg"/>
-<!-- <img width="60px" height="60px" src=""/> -->
+<img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/Typescript.png?raw=true"/>
 <img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/nodejs1.png?raw=true"/>
 <img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/react.png?raw=true"/>
 <img width="60px" height="60px" src="https://github.com/imsukhdevhansda/imsukhdevhansda/blob/main/tech-stack-logos/mongoDB.png?raw=true"/>
