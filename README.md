@@ -103,9 +103,9 @@ At Zee5, the online video streaming Over The Top (OTT) platform. That’s where 
 [![](https://visitcount.itsvg.in/api?id=imsukhdevhansda&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsukhdevhansda&show_icons=true&locale=en&layout=compact&theme=tokyonight"alt="imsukhdevhansda" /></p>
+<p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsukhdevhansda&show_icons=true&locale=en&layout=compact&theme=tokyonight"alt="imsukhdevhansda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsukhdevhansda&show_icons=true&locale=en&theme=tokyonight" alt="imsukhdevhansda"/></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsukhdevhansda&show_icons=true&locale=en&theme=tokyonight" alt="imsukhdevhansda"/></p>
 <br/>
 
 
